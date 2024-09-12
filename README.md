@@ -32,7 +32,7 @@ Hi there 👋. I’m Bijay Aryal, aspire to become a proficient website develope
 ![](https://github-contributor-stats.vercel.app/api?username=bijuaryal91&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<img src="[https://raw.githubusercontent.com/bijuaryal91/bijuaryal91/main/snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bijuaryal91/bijuaryal91/main/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bijuaryal91&icon=5&color=0)](https://visitcount.itsvg.in)
