@@ -11,6 +11,8 @@
 # 💫 About Me:
 Hi there 👋. I’m Bijay Aryal, aspire to become a proficient website developer and build a successful career in this field by taking on complex projects and challenges in the workplace. I am committed to constantly improving my skills and knowledge through a continuous learning attitude and have a passion for creating high-quality websites. With my experience in various tools, frameworks, and CMS platforms like WordPress, I aim to contribute to the growth of the organization and leverage my acquired skills and experiences to deliver high-quality results from scratch or using advanced technologies.
 
+ - Fun Fact : I once fixed a bug while trying to understand it.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bijuaryal81) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bijuaryal91) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheCodingGuide) 
