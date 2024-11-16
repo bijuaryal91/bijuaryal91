@@ -1,11 +1,6 @@
 # Hey there :wave:
 <img src="https://raw.githubusercontent.com/bijuaryal91/bijuaryal91/main/banner.png" alt="Hello world">
 
-<!--<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bijuaryal91/count.svg" />
-</p>-->
-
 
 
 # 💫 About Me:
